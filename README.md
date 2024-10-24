@@ -1,10 +1,11 @@
 ### Hello World! 👋
 ### I'm Daniel Galetti
 
-- 🔭 I’m currently working on Technology Consultancy, Development front-end.
-- 🌱 I’m currently learning Java, ReactJS, JavaScript, Node, CSS, HTML, Python.
-- 👯 I’m looking to collaborate on Open-source issues, acessibility web, projects in general.
-- 📫 How to reach me: dmgaletti@gmail.com
+- 🔭 I’m currently working on Web Development..
+- 🌱 I’m currently learning NextJS, React and Machine Learning with Python.
+- 👯 I’m looking to collaborate on Open-source issues, Artificial Intelligence and research in Computer Vision.
+- 🔍 My research area is Computer Vision - Vision Language Models, using deep learning, Neural Networks and Machine Learning
+- 📫 How to reach me: danielgaletti70@gmail.com
 - 😄 Pronouns: He/Him
 
 <div>
